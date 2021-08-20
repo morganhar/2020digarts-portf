@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 2020 dig arts portfolio
 
 You can use the [editor on GitHub](https://github.com/morganhar/2020digarts-portf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
